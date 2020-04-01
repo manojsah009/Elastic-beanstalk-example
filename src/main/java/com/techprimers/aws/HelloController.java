@@ -10,6 +10,6 @@ public class HelloController {
 
     @GetMapping
     public String hello() {
-        return "Hello AWS guy !! welcome to Code Pipeline from EBS ";
+        return "Hello AWS manoj guy !! welcome to Code Pipeline from EBS ";
     }
 }
